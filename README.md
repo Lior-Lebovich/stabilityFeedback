@@ -10,14 +10,16 @@ A well-known observation in repeated-choice experiments is that a tendency to pr
 Data
 -------------------
 All data required to reproduce our results are available in the repository. 
-Response data and inter-session-delays are stored in sorted tables ("sortedTable_") and assign tables ("assignTable_"), respectively, by experiments ([stability](https://github.com/Lior-Lebovich/stabilityFeedback/tree/e3c5340f25b259a9574fc7229f6b009472bf87f4/stability) folder and [feedback](https://github.com/Lior-Lebovich/stabilityFeedback/tree/d089520449686660b1f650722fa46e4e38a70fc6/feedback) folder) and delay groups: 
+Response data and inter-session-delays are stored as sorted tables ("sortedTable_") and assign tables ("assignTable_"), respectively, by experiments ([stability](https://github.com/Lior-Lebovich/stabilityFeedback/tree/e3c5340f25b259a9574fc7229f6b009472bf87f4/stability) folder and [feedback](https://github.com/Lior-Lebovich/stabilityFeedback/tree/d089520449686660b1f650722fa46e4e38a70fc6/feedback) folder) and delay groups: 
 stabilityFeedback/[EXPERIMENT_NAME]/[TABLES_TYPE]_[EXPERIMENT_NAME]_[DELAY_NAME].csv
 
 Analysis
 -------------------
 The code required to reproduce all data is available in the [stabilityFeedbackICB.mlx](https://github.com/Lior-Lebovich/stabilityFeedback/blob/191ccc836218d0be6b764ad092724d92ecec349a/stabilityFeedbackICB.mlx) MATLAB (R2023b) Live Editor file (also available as [stabilityFeedbackICB.pdf](https://github.com/Lior-Lebovich/stabilityFeedback/blob/7c2f833c9a0506af6a8413e38cfc6408276fd81c/stabilityFeedbackICB.pdf)).
 
-All figures are saved in MATLAB FIG and PDF formats. File names for the vertical task are as in the paper. For the horizontal task, we add " - appendix.". 
+
+All figures are saved in the [figures](https://github.com/Lior-Lebovich/stabilityFeedback/tree/9d92a6c93295eae0288e215d5743fd6a0dc498ab/figures) folder in both MATLAB FIG and PDF formats. File names for the vertical task match those used in the paper, while file names for the horizontal task include " - appendix." at the end.
+
 
 For Binomial tests, we use the myBinomTest custom function, reference: Matthew Nelson (2015). https://www.mathworks.com/matlabcentral/fileexchange/24813-mybinomtest-s-n-p-sided MATLAB Central File Exchange. Retrieved February 9, 2016.
 
