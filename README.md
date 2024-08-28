@@ -20,7 +20,6 @@ The code required to reproduce all data is available in the [stabilityFeedbackIC
 
 All figures are saved in the [figures](https://github.com/Lior-Lebovich/stabilityFeedback/tree/9d92a6c93295eae0288e215d5743fd6a0dc498ab/figures) folder in both MATLAB FIG and PDF formats. File names for the vertical task match those used in the paper, while file names for the horizontal task include " - appendix." at the end.
 
-
 For Binomial tests, we use the myBinomTest custom function, reference: Matthew Nelson (2015). https://www.mathworks.com/matlabcentral/fileexchange/24813-mybinomtest-s-n-p-sided MATLAB Central File Exchange. Retrieved February 9, 2016.
 
 Cite
