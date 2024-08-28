@@ -10,7 +10,7 @@ A well-known observation in repeated-choice experiments is that a tendency to pr
 Data
 -------------------
 All data required to reproduce our results are available in the repository. 
-Response data and inter-session-delays are stored in sorted tables ("sortedTable_") and assign tables ("assignTable_"), respectively, by experiments (stability folder and feedback folder) and delay groups: 
+Response data and inter-session-delays are stored in sorted tables ("sortedTable_") and assign tables ("assignTable_"), respectively, by experiments ([stability](https://github.com/Lior-Lebovich/stabilityFeedback/tree/e3c5340f25b259a9574fc7229f6b009472bf87f4/stability) folder and [feedback folder]()) and delay groups: 
 stabilityFeedback/[EXPERIMENT_NAME]/[TABLE_TYPE]_[EXPERIMENT_NAME]_[DELAY_NAME].csv
 
 Analysis
