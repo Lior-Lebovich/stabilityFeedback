@@ -24,8 +24,7 @@ For Binomial tests, we use the myBinomTest custom function, reference: Matthew N
 
 Cite
 -------------------
-If you use code from this repository, please cite it using the Zenodo DOI:
-ADD_DOI
+If you use code from this repository, please cite it using the Zenodo DOI: 10.5281/zenodo.13388598
 
 Contributors
 -------------------
