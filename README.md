@@ -15,7 +15,7 @@ stabilityFeedback/[EXPERIMENT_NAME]/[TABLES_TYPE]_[EXPERIMENT_NAME]_[DELAY_NAME]
 
 Analysis
 -------------------
-The code required to reproduce all data is available in the [stabilityFeedbackICB.mlx](https://github.com/Lior-Lebovich/stabilityFeedback/blob/191ccc836218d0be6b764ad092724d92ecec349a/stabilityFeedbackICB.mlx) MATLAB (R2023b) Live Editor file (also available as [stabilityFeedbackICB.pdf]()).
+The code required to reproduce all data is available in the [stabilityFeedbackICB.mlx](https://github.com/Lior-Lebovich/stabilityFeedback/blob/191ccc836218d0be6b764ad092724d92ecec349a/stabilityFeedbackICB.mlx) MATLAB (R2023b) Live Editor file (also available as [stabilityFeedbackICB.pdf](https://github.com/Lior-Lebovich/stabilityFeedback/blob/7c2f833c9a0506af6a8413e38cfc6408276fd81c/stabilityFeedbackICB.pdf)).
 
 All figures are saved in MATLAB FIG and PDF formats. File names for the vertical task are as in the paper. For the horizontal task, we add " - appendix.". 
 
