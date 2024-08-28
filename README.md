@@ -16,6 +16,9 @@ stabilityFeedback/[EXPERIMENT_NAME]/[TABLE_TYPE]_[EXPERIMENT_NAME]_[DELAY_NAME].
 Analysis
 -------------------
 The code required to reproduce all data is available in the stabilityFeedbackICB.mlx MATLAB (R2023b) Live Editor file (also available as stabilityFeedbackICB.pdf).
+
+All figures are saved in MATLAB FIG and PDF formats. File names for the vertical task are as in the paper. For the horizontal task, we add " - appendix.". 
+
 For Binomial tests, we use the myBinomTest custom function, reference: Matthew Nelson (2015). https://www.mathworks.com/matlabcentral/fileexchange/24813-mybinomtest-s-n-p-sided MATLAB Central File Exchange. Retrieved February 9, 2016.
 
 Cite
